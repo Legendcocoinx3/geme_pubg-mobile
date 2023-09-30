@@ -1,2 +1,4 @@
 # geme_pubg-mobile
-a = " assalomu alaykum
+a = " assalomu alaykum"
+b = "valaykum assalom"
+
